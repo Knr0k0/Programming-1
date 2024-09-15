@@ -1,0 +1,10 @@
+u-201,client,clientpass,John Doe,1999-10-01,123_Main_St,0915329224,john@gmail.com,client,active
+u-202,client2,clientpass2,Jane Smith,1987-05-12,456_Elm_St,0917884321,jane@gmail.com,client,active
+u-203,client3,clientpass3,Michael Johnson,1992-11-21,789_Oak_St,0912345678,michael@gmail.com,client,active
+u-204,client4,clientpass4,Emily Davis,1985-03-14,101_Pine_St,0915123456,emily@gmail.com,client,active
+u-205,client5,clientpass5,David Brown,1990-06-30,202_Maple_St,0916777888,david@gmail.com,client,active
+u-206,client6,clientpass6,Olivia Wilson,1995-07-25,303_Birch_St,0913445566,olivia@gmail.com,client,active
+u-207,client7,clientpass7,Liam Miller,1983-09-10,404_Cedar_St,0914556677,liam@gmail.com,client,active
+u-208,client8,clientpass8,Emma Martinez,2000-12-08,505_Walnut_St,0915999888,emma@gmail.com,client,active
+u-209,client9,clientpass9,James Anderson,1997-04-17,606_Ash_St,0916667777,james@gmail.com,client,active
+u-210,client10,clientpass10,Isabella Thomas,1993-08-22,707_Cherry_St,0917001122,isabella@gmail.com,client,active

@@ -1,0 +1,20 @@
+c-001,Toyota,Corolla,2015,55000,Blue,available,288000000,Oil change, tire replacement,Auto136
+c-002,Honda,Civic,2018,30000,Red,sold,360000000,Brake pad replacement,Other garage
+c-003,Ford,Focus,2016,40000,Black,available,240000000,Battery replacement, spark plug replacement,Auto136
+c-004,Chevrolet,Malibu,2019,20000,White,sold,384000000,Wheel alignment, tire rotation,Auto136
+c-005,Nissan,Altima,2020,15000,Gray,available,432000000,Oil change,Other garage
+c-006,Kia,Sportage,2017,60000,Silver,available,336000000,Transmission service,Auto136
+c-007,BMW,320i,2016,70000,Black,sold,480000000,Brake fluid change,Other garage
+c-008,Audi,A4,2019,25000,Blue,available,600000000,Battery check,Auto136
+c-009,Volkswagen,Passat,2018,35000,White,sold,528000000,Coolant flush,Other garage
+c-010,Hyundai,Elantra,2020,18000,Silver,available,408000000,Oil filter change,Auto136
+c-011,Mercedes-Benz,C300,2015,85000,Black,sold,720000000,Tire replacement,Other garage
+c-012,Subaru,Outback,2017,50000,Green,available,456000000,Timing belt replacement,Auto136
+c-013,Jeep,Cherokee,2018,45000,Red,available,504000000,Battery replacement,Auto136
+c-014,Ford,Escape,2020,10000,Gray,sold,552000000,Transmission service,Other garage
+c-015,Tesla,Model 3,2021,12000,White,available,1080000000,Software update,Auto136
+c-016,Cadillac,CT6,2017,75000,Black,sold,840000000,Oil change, tire rotation,Other garage
+c-017,Lexus,ES350,2019,30000,Blue,available,792000000,Brake pad replacement,Auto136
+c-018,Mazda,CX-5,2018,40000,Gray,sold,504000000,Battery replacement,Other garage
+c-019,Volvo,S60,2020,15000,White,available,888000000,Oil filter change,Auto136
+c-020,Chrysler,300,2017,55000,Silver,sold,384000000,Brake fluid change,Other garage

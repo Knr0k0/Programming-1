@@ -1,0 +1,30 @@
+p-001,Brake Pads,Bosch,BP1234,new,12 months,1200000,Front brake pads
+p-002,Oil Filter,Fram,OF5678,new,6 months,480000,Compatible with most cars
+p-003,Air Filter,Mann,AF1122,new,12 months,360000,Engine air filter
+p-004,Spark Plug,NGK,SP6789,new,24 months,240000,Iridium spark plug
+p-005,Battery,Duracell,DB4444,new,36 months,2880000,12V car battery
+p-006,Alternator,Bosch,ALT8765,refurbished,18 months,4800000,For Ford Focus 2016
+p-007,Fuel Pump,Denso,FP3344,new,24 months,3600000,Electric fuel pump
+p-008,Windshield Wiper,Bosch,WW1122,new,12 months,600000,Driver-side wiper
+p-009,Headlight Bulb,Philips,HB9987,new,12 months,720000,Xenon headlight bulb
+p-010,Radiator,Behr,RD5522,new,24 months,7200000,Aluminum radiator
+p-011,Timing Belt,Gates,TB1234,new,12 months,1920000,High-performance belt
+p-012,Water Pump,Aisin,WP4321,refurbished,18 months,3840000,Used in Honda Accord
+p-013,Clutch Plate,Sachs,CP9876,used,6 months,2160000,From a 2015 Audi A4
+p-014,AC Compressor,Delphi,AC7890,refurbished,12 months,6000000,Tested compressor
+p-015,Shock Absorber,Bilstein,SA4455,new,24 months,2880000,For Toyota Camry
+p-016,Exhaust Muffler,MagnaFlow,EM6678,new,12 months,5280000,Stainless steel muffler
+p-017,Transmission Fluid,Valvoline,TF1111,new,6 months,360000,Synthetic fluid
+p-018,Thermostat,Gates,TH3333,new,12 months,960000,Engine thermostat
+p-019,Steering Wheel Cover,AutoZone,SWC2233,new,6 months,600000,Leather cover
+p-020,Fan Belt,Goodyear,FB7788,used,3 months,480000,Used but in good condition
+p-021,Ignition Coil,Delphi,IC5432,new,24 months,1440000,For various GM models
+p-022,Brake Rotor,Brembo,BR9922,new,12 months,2400000,Drilled performance rotors
+p-023,Starter Motor,Denso,SM1123,refurbished,18 months,4320000,For Honda Civic
+p-024,Control Arm,Moog,CA5567,new,24 months,2640000,Front control arm
+p-025,Air Conditioning Condenser,Delphi,ACD4477,new,12 months,5520000,Aluminum condenser
+p-026,Tire,Michelin,TI1234,new,12 months,3600000,All-season tire
+p-027,Side Mirror,TYC,SM9876,new,6 months,1440000,Driver side mirror
+p-028,Fuel Injector,Bosch,FI5544,new,12 months,1920000,High-performance injector
+p-029,Wheel Hub Assembly,Timken,WH3322,new,24 months,3360000,Front wheel hub
+p-030,Door Handle,ACDelco,DH9987,used,6 months,840000,Passenger side door handle

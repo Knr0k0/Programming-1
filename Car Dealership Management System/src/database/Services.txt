@@ -1,0 +1,20 @@
+s-001,2024-09-15,u-204,u-104,Engine Repair,p-001;p-002,1500000,Fixed engine issues
+s-002,2024-09-02,u-210,u-101,Transmission Fix,p-003;p-004,2000000,Repaired transmission
+s-003,2024-08-21,u-205,u-106,Brake Replacement,p-005;p-006,500000,Replaced brake pads
+s-004,2024-08-09,u-203,u-103,Oil Change,p-007,300000,Changed engine oil
+s-005,2024-08-25,u-202,u-105,Tire Replacement,p-008;p-009,1200000,Replaced all tires
+s-006,2024-09-10,u-207,u-106,Battery Replacement,p-010,800000,Replaced car battery
+s-007,2024-08-05,u-209,u-102,Wheel Alignment,p-011,600000,Aligned wheels
+s-008,2024-09-08,u-201,u-104,Air Conditioning Fix,p-012,1400000,Fixed air conditioning
+s-009,2024-08-15,u-206,u-105,Exhaust Repair,p-013,1100000,Repaired exhaust system
+s-010,2024-09-12,u-208,u-103,Clutch Replacement,p-014;p-015,1800000,Replaced clutch
+s-011,2024-08-19,u-202,u-101,Fuel Pump Repair,p-016,900000,Repaired fuel pump
+s-012,2024-09-06,u-209,u-106,Headlight Replacement,p-017;p-018,400000,Replaced headlights
+s-013,2024-08-02,u-201,u-102,Alternator Replacement,p-019,1700000,Replaced alternator
+s-014,2024-08-28,u-203,u-105,Window Repair,p-020,1300000,Fixed window mechanism
+s-015,2024-09-04,u-208,u-104,Radiator Replacement,p-021;p-022,1600000,Replaced radiator
+s-016,2024-08-17,u-210,u-101,Shock Absorber Repair,p-023,700000,Repaired shock absorbers
+s-017,2024-09-15,u-204,u-102,Timing Belt Replacement,p-024,1900000,Replaced timing belt
+s-018,2024-09-01,u-205,u-103,Windshield Replacement,p-025,1000000,Replaced windshield
+s-019,2024-08-24,u-207,u-104,Steering Repair,p-026,1550000,Fixed steering system
+s-020,2024-09-15,u-206,u-101,Door Lock Fix,p-027,450000,Fixed door lock
