@@ -1,10 +1,10 @@
-t-001,2024-01-05,u-207,u-305,u-207; p-001; p-005,0,288000000,Purchased car and parts without discount
-t-002,2024-01-06,u-201,u-309,u-201; p-002,0,360000000,Car and parts without discount
-t-003,2024-08-20,u-208,u-302,u-208; p-003; p-004,15,270000000,Platinum membership discount applied
-t-004,2024-01-10,u-203,u-310,u-203; p-006; p-007,0,336000000,No discount applied
-t-005,2024-01-12,u-210,u-303,u-210; p-008; p-009,10,396000000,Gold membership discount
-t-006,2024-09-15,u-204,u-308,u-204; p-010,0,336000000,No discount applied
-t-007,2024-01-17,u-202,u-301,u-202; p-011; p-012,5,504000000,Silver membership discount applied
-t-008,2024-01-19,u-205,u-306,u-205; p-013; p-014,10,621000000,Gold membership discount
-t-009,2024-09-10,u-209,u-307,u-209; p-015; p-016,15,684000000,Platinum membership discount applied
-t-010,2024-01-25,u-206,u-304,u-206; p-017,0,408000000,No discount applied
+t-001,2024-01-05,u-207,u-305,c-001; p-001; p-005,0,288000000,Purchased car and parts without discount
+t-002,2024-01-06,u-201,u-309,c-002; p-002,0,360000000,Car and parts without discount
+t-003,2024-08-20,u-208,u-302,c-003; p-003; p-004,15,270000000,Platinum membership discount applied
+t-004,2024-01-10,u-203,u-310,c-004; p-006; p-007,0,336000000,No discount applied
+t-005,2024-01-12,u-210,u-303,c-005; p-008; p-009,10,396000000,Gold membership discount
+t-006,2024-09-15,u-204,u-308,c-006; p-010,0,336000000,No discount applied
+t-007,2024-01-17,u-202,u-301,c-007; p-011; p-012,5,504000000,Silver membership discount applied
+t-008,2024-01-19,u-205,u-306,c-008; p-013; p-014,10,621000000,Gold membership discount
+t-009,2024-09-10,u-209,u-307,c-009; p-015; p-016,15,684000000,Platinum membership discount applied
+t-010,2024-01-25,u-206,u-304,c-010; p-017,0,408000000,No discount applied

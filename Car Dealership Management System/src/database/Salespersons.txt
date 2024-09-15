@@ -1,4 +1,4 @@
-u-301,salesperson,salespersonpass,John Doe,1999-10-01,123_Main_St,0915329224,john@gmail.com,salesperson,active
+u-301,sp,spp,John Doe,1999-10-01,123_Main_St,0915329224,john@gmail.com,salesperson,active
 u-302,salesperson2,salespersonpass2,Jane Smith,1985-07-12,456_Oak_St,0915356789,jane@gmail.com,salesperson,active
 u-303,salesperson3,salespersonpass3,David Johnson,1992-03-21,789_Pine_St,0915345678,david@gmail.com,salesperson,active
 u-304,salesperson4,salespersonpass4,Emily Davis,1988-11-09,321_Maple_St,0915334567,emily@gmail.com,salesperson,active

@@ -687,7 +687,7 @@ public class ListOperation {
                 String[] serviceDetails = line.split(",");
                 LocalDate dateFile = LocalDate.parse(serviceDetails[1], dateTimeFormatter);
                 if (mechanic.getUserID().equals(serviceDetails[3]) && dateFile.isAfter(ChronoLocalDate.from(sevenDayAgo)) && dateFile.isBefore(ChronoLocalDate.from(now)) || dateFile.isEqual(ChronoLocalDate.from(now))) {
-                    count += Integer.parseInt(serviceDetails[6]);
+                    count += 1;
                 }
 
             }
@@ -715,7 +715,7 @@ public class ListOperation {
                 String[] serviceDetails = line.split(",");
                 LocalDate dateFile = LocalDate.parse(serviceDetails[1], dateTimeFormatter);
                 if (mechanic.getUserID().equals(serviceDetails[3]) && dateFile.isAfter(ChronoLocalDate.from(monthAgo)) && dateFile.isBefore(ChronoLocalDate.from(now)) || dateFile.isEqual(ChronoLocalDate.from(now))) {
-                    count += Integer.parseInt(serviceDetails[6]);
+                    count += 1;
                 }
 
             }
@@ -809,7 +809,7 @@ public class ListOperation {
                 String[] transactionDetails = line.split(",");
                 LocalDate dateFile = LocalDate.parse(transactionDetails[1], dateTimeFormatter);
                 if (salesperson.getUserID().equals(transactionDetails[3]) && dateFile.isAfter(ChronoLocalDate.from(sevenDayAgo)) && dateFile.isBefore(ChronoLocalDate.from(now)) || dateFile.isEqual(ChronoLocalDate.from(now))) {
-                    count += Integer.parseInt(transactionDetails[6]);
+                    count += 1;
                 }
 
             }
@@ -837,7 +837,7 @@ public class ListOperation {
                 String[] transactionDetails = line.split(",");
                 LocalDate dateFile = LocalDate.parse(transactionDetails[1], dateTimeFormatter);
                 if (salesperson.getUserID().equals(transactionDetails[3]) && dateFile.isAfter(ChronoLocalDate.from(monthAgo)) && dateFile.isBefore(ChronoLocalDate.from(now)) || dateFile.isEqual(ChronoLocalDate.from(now))) {
-                    count += Integer.parseInt(transactionDetails[6]);
+                    count += 1;
                 }
 
             }

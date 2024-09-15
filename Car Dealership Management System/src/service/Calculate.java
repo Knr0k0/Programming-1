@@ -24,6 +24,11 @@ public class Calculate {
 
         int countCars = 0;
 
+        LocalDateTime now = LocalDateTime.now();
+        DateTimeFormatter dateTimeFormatter = DateTimeFormatter.ofPattern("yyyy-MM-dd");
+
+        LocalDateTime monthAgo = now.minusDays(30);
+
         // Read data from file and add in list
         try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
             String line;
